@@ -21,12 +21,6 @@
 
 Curiosity is the part I actually rely on. It's what lets me pick up whatever stack a team is already running, including the pieces I'm not an expert in yet — I'd rather learn the tool the job needs than argue for the one I already know.
 
-- Building a **geotechnical spatial platform** — an interactive map for bored piles and pile caps
-- Deep in **Django, REST API design, and software architecture**, properly rather than just enough to get by
-- Exploring **coding agents, MCP, and agent workflows** as part of how I build
-- Daily driver: **Debian Linux**
-- Ask me about: PDFs that should have been a database
-
 <br clear="right" />
 
 ---
@@ -46,15 +40,6 @@ Curiosity is the part I actually rely on. It's what lets me pick up whatever sta
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=17eb&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17eb&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
 
 ---
 
