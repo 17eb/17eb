@@ -1,27 +1,28 @@
 <!--
   GitHub Profile README
   --------------------------------------------------
-  Replace every YOUR_USERNAME with your GitHub handle.
-  Replace the GIF URL below with your own.
-  Delete any section you don't want.
+  Replace FACEBOOK_HANDLE and INSTAGRAM_HANDLE at the bottom.
+  Drop your GIFs at assets/wave.gif and assets/banner.gif in this repo.
 -->
 
 <h1 align="left">
   Hi, I'm Deb
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/wave.gif" width="28" alt="wave" />
+  <img src="https://raw.githubusercontent.com/17eb/17eb/main/assets/wave.gif" width="28" alt="wave" />
 </h1>
 
 <img
   align="right"
   width="380"
-  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.gif"
+  src="https://raw.githubusercontent.com/17eb/17eb/main/assets/banner.gif"
   alt="coding gif"
 />
 
-**Backend engineer in the making.** I build APIs, wire them to real workflows, and then figure out how to ship them to the cloud without breaking anything.
+**Cloud, machine learning, backend development, and DevOps.** That's where my interest sits, and I move between them rather than picking one lane.
 
-- Working on a **geotechnical spatial platform** — an interactive map for bored piles and pile caps
-- Learning **Django, REST API design, and software architecture** properly, not just enough to get by
+Curiosity is the part I actually rely on. It's what lets me pick up whatever stack a team is already running, including the pieces I'm not an expert in yet — I'd rather learn the tool the job needs than argue for the one I already know.
+
+- Building a **geotechnical spatial platform** — an interactive map for bored piles and pile caps
+- Deep in **Django, REST API design, and software architecture**, properly rather than just enough to get by
 - Exploring **coding agents, MCP, and agent workflows** as part of how I build
 - Daily driver: **Debian Linux**
 - Ask me about: PDFs that should have been a database
@@ -35,6 +36,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,30 +49,18 @@
 
 ---
 
-## What I'm building
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **Geotech Spatial Platform** | 2D birdseye map of bored piles and pile caps so pile-test teams get a spatial view of a project, with per-pile status and document trails | Django · PostGIS · Leaflet |
-| **FAQ Email Bot** | Answers inbound FAQ email automatically from a company knowledge base instead of pointing people at a help page | Python · LLM API |
-| **Locked-In** | Hackathon build: a business credit line a contractor can split into per-worker sub-lines, where the spending itself becomes underwriting data | Python · React |
-
-<!-- Swap in real repo links once they're public:
-| **[Project Name](https://github.com/YOUR_USERNAME/repo)** | ... | ... |
--->
-
----
-
 ## Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=17eb&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17eb&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
-## Reach me
+## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karl-deavin-san-juan-4629a6370/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/deavink)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karl1mperial)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deavinsanjuan@gmail.com)
