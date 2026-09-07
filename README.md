@@ -1,7 +1,7 @@
-<img align="center" alt="GIF" src="./assets/banner-2.gif"/>
+<img align="center" alt="GIF" src="./assets/banner.gif"/>
 
 <h1 align="left">
-  Hi, I'm Deb
+  Greetings! Deb here :>
   <img src="https://raw.githubusercontent.com/17eb/17eb/main/assets/wave.gif" width="28" alt="wave" />
 </h1>
 
