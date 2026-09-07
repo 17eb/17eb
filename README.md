@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/17eb/17eb/main/assets/wave.gif" width="28" alt="wave" />
 </h1>
 
-**Cloud, machine learning, backend development, and DevOps.** That's where my interest sits, and I move between them rather than picking one lane.
+**Cloud, machine learning, backend development, and DevOps.**
 
 Curiosity is the part I actually rely on. It's what lets me pick up whatever stack a team is already running, including the pieces I'm not an expert in yet — I'd rather learn the tool the job needs than argue for the one I already know.
 
