@@ -1,9 +1,4 @@
-<!--
-  GitHub Profile README
-  --------------------------------------------------
-  Replace FACEBOOK_HANDLE and INSTAGRAM_HANDLE at the bottom.
-  Drop your GIFs at assets/wave.gif and assets/banner.gif in this repo.
--->
+<img align="center" alt="GIF" src="./assets/banner-2.gif"/>
 
 <h1 align="left">
   Hi, I'm Deb
