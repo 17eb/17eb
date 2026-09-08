@@ -1,13 +1,13 @@
 <img align="center" alt="GIF" src="./assets/banner.gif"/>
 
 <h1 align="left">
-  Greetings! Deb here :>
+  Greetings, I am Deb!
   <img src="https://raw.githubusercontent.com/17eb/17eb/main/assets/wave.gif" width="28" alt="wave" />
 </h1>
 
-**Cloud, machine learning, backend development, and DevOps.**
+**Cloud, machine learning, backend development, and DevOps.** These are the topics I am most fond of.
 
-Curiosity is the part I actually rely on. It's what lets me pick up whatever stack a team is already running, including the pieces I'm not an expert in yet — I'd rather learn the tool the job needs than argue for the one I already know.
+Curiosity is what I rely on most. It's what lets me step into whatever stack a team is already running — including the parts I haven't worked with yet — and get productive quickly. I'd rather learn the tool the job needs than argue for the one I already know.
 
 <br clear="right" />
 
