@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="./assets/banner.gif"/>
+<img align="center" alt="GIF" src="./assets/banner1.gif"/>
 
 <h1 align="left">
   Greetings, I am Deb!
